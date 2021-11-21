@@ -11,5 +11,9 @@ The dataset is a cleaned version of the BFRSS 2015 dataset containing 70692 rows
 
 # Technologies 
 
-pandas, scikit-learn, matplotlib were used for modelling and prediction.
+pandas, seaborn, scikit-learn, matplotlib, and tensorflow were used for data analysis.
+
+# Modelling
+
+To make predictions, support vector machines, decision tree, random forest, and neural networks were used for modelling.
 
