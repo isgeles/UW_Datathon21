@@ -1,4 +1,4 @@
-# UW_Datathon21
+# UW Datathon '21: Diabetes Prediction Project
 Dataverse Datathon '21 organised by UWaterloo Data Science Club
 
 # Motivation
